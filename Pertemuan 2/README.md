@@ -35,8 +35,8 @@ Board diatur sebagai klien WiFi (Station) dan tersambung ke jaringan yang sudah 
 ```cpp
 #include <WiFi.h>
 
-const char* ssid     = "NAMA_WIFI_ANDA";
-const char* password = "PASSWORD_WIFI_ANDA";
+const char* ssid     = "eduroamer";
+const char* password = "wendygantengpoll";
 const int ledPin = 2;   // LED indikator
 
 void setup() {
@@ -106,8 +106,8 @@ Pada program dasar tidak ada pesan yang membedakan kedua penyebab dan tidak ada 
 ```cpp
 #include <WiFi.h>
 
-const char* ssid     = "NAMA_WIFI_ANDA";
-const char* password = "PASSWORD_WIFI_ANDA";
+const char* ssid     = "eduroamer";
+const char* password = "wendygantengpoll";
 const int ledPin = 2;
 
 // --- Kode baru: variabel untuk pemeriksaan berkala ---
@@ -205,8 +205,8 @@ Siapa pun dalam jangkauan sinyal bisa bergabung. Risikonya: data yang lewat dapa
 #include <WiFi.h>
 
 // --- Kode baru: kredensial WiFi rumah untuk sisi Station ---
-const char* sta_ssid     = "NAMA_WIFI_RUMAH";
-const char* sta_password = "PASSWORD_WIFI_RUMAH";
+const char* sta_ssid     = "eduroamer";
+const char* sta_password = "wendygantengpoll";
 
 // Kredensial untuk sisi Access Point (tetap disediakan board)
 const char* ap_ssid     = "ESP32_AccessPoint";
