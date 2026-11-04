@@ -1,0 +1,21 @@
+No,Waktu Penerimaan,Suhu (°C),Z-score,Status Anomali,Status Penyimpanan CSV
+1,2026-10-21 09:56:58,28.1,-0.39,Normal,Tersimpan
+2,2026-10-21 09:57:02,28.1,-0.39,Normal,Tersimpan
+3,2026-10-21 09:57:07,28.2,2.51,Anomali,Tersimpan
+4,2026-10-21 09:57:12,28.1,-0.39,Normal,Tersimpan
+5,2026-10-21 09:57:17,28.2,2.51,Anomali,Tersimpan
+6,2026-10-21 09:57:22,28.1,-0.39,Normal,Tersimpan
+7,2026-10-21 09:57:27,28.1,-0.39,Normal,Tersimpan
+8,2026-10-21 09:57:32,28.1,-0.39,Normal,Tersimpan
+9,2026-10-21 09:57:37,28.1,-0.39,Normal,Tersimpan
+10,2026-10-21 09:57:42,28.1,-0.39,Normal,Tersimpan
+11,2026-10-21 09:57:47,28.1,-0.39,Normal,Tersimpan
+12,2026-10-21 09:57:52,28.2,2.51,Anomali,Tersimpan
+13,2026-10-21 09:57:57,28.1,-0.39,Normal,Tersimpan
+14,2026-10-21 09:58:02,28.1,-0.39,Normal,Tersimpan
+15,2026-10-21 09:58:07,28.1,-0.39,Normal,Tersimpan
+16,2026-10-21 09:58:12,28.1,-0.39,Normal,Tersimpan
+17,2026-10-21 09:58:17,28.1,-0.39,Normal,Tersimpan
+18,2026-10-21 09:58:22,28.1,-0.39,Normal,Tersimpan
+19,2026-10-21 09:58:27,28.1,-0.39,Normal,Tersimpan
+20,2026-10-21 09:58:32,28.1,-0.39,Normal,Tersimpan
